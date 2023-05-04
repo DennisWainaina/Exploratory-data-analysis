@@ -1,9 +1,35 @@
-# Exploratory-data-analysis from AI Planet
-1.This was a project at the end of the course about data from the passengers of the titanic including the gender, age, if the person survived, the fare paid and if the person survived
+# Titanic Survival Analysis with Pandas and Numpy
+This is a simple Python script that analyzes the Titanic dataset to gain insights into the survival of passengers in the accident. The script uses Pandas and Numpy to explore the data and generate statistics, and outputs the results to the console.
 
-2.The goal was to see how various factors affected the chance of survival for the passenger such as gender age or even the name of the passenger and whether he/ she was a first-class, second-class or third-class passenger
+# Skills Demonstrated
+Data Analysis with Pandas and Numpy
+Missing Value Imputation
+Exploratory Data Analysis (EDA)
+Data Visualization
+Dataset
+The Titanic dataset is a well-known dataset that contains information on the passengers who were aboard the ill-fated ship. The dataset contains various features, such as the passenger's age, sex, fare paid, class, and more.
 
-3.The chances of survivng according to these factors was then calculated as a percentage and displayed as output.
+# Results
+The script generates the following statistics and insights:
 
-# What I learnt:
-1. How to use data to predict the chances of something happening according to the data given
+1.Whether fare has missing values and if males are more than women.
+
+2.The ratio of people who survived the crash of the Titanic.
+
+3.The median fare of the passengers.
+
+4.The percentage of women that survived.
+
+5.The percentage of first, second, and third class passengers who survived.
+
+6.The percentage of children who survived.
+
+7.The no of survivors who embarked from Southampton.
+
+# Usage
+Clone the repository to your local machine.
+Install the required packages: pandas and numpy.
+Run the script in a Python environment.
+
+# Conclusion
+This simple script demonstrates my ability to analyze and gain insights from datasets using Python and Pandas. It showcases my proficiency in data manipulation, missing value imputation, and EDA. The code is well-documented and can be used as a starting point for further analysis.
